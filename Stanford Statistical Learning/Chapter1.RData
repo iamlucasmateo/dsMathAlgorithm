@@ -1,2 +1,0 @@
-college = read.csv('College.csv')
-fix()
